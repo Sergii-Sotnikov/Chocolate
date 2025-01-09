@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat',sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.header-logo {
+    color: #111111;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: -0,03em;
+    text-align: left;
+}
+
+.header-logo-italic {
+    font-style: italic;
+}
